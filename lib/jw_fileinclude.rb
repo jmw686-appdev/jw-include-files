@@ -1,6 +1,6 @@
 require "jw_fileinclude/version"
 
-require "jw_fileinclude/.pryrc"
+require "jw_fileinclude/pryrc"
 
 require "jw_fileinclude/active_record_relation_patch"
 require "jw_fileinclude/attribute_methods_patch"
